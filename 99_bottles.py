@@ -10,6 +10,7 @@ Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
 
 Project Source: https://github.com/jorgegonzalez/beginner-projects#99-bottles
 Author: Kathleen C
+Date: May 20, 2026
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 '''
 
